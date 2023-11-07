@@ -4,8 +4,11 @@
 1. 410 kcal, 1720 kJ
  28g vet
  26g eiwitten
-13g koolhydraten
+13g koolhydraten   i
 3g vezels
+
+![](Gehakt-op-Hongaarse-wijze.jpg)
+
 ### BEREIDING
 1 Maak de paprika schoon en snijd deze in grote stukken. Pel de uien en snijd ze fijn. Doe gehakt, de stukken paprika, uiensnippers en paprikapoeder in een pan of wok.
 
